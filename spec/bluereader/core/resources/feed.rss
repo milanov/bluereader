@@ -1,0 +1,19 @@
+<rss>
+  <!-- look at me now -->
+  <channel>
+    <title>Pedro Almodovar</title>
+    <description><![CDATA[A list of some of <description>Almodovar's</description> best movies.]]></description>
+    <item>
+      <title>La piel que habito</title>
+      <description>A brilliant plastic surgeon, haunted by past tragedies..</description>
+      <link>http://www.imdb.com/title/tt1189073/</link>
+      <pubDate>Thu, 21 Feb 2013 20:15:10 -0600</pubDate>
+    </item>
+    <item>
+      <title>Hable con ella</title>
+      <description>Two men share an odd friendship while they care for..</description>
+      <link>http://www.imdb.com/title/tt0287467/</link>
+      <pubDate>Thu, 21 Feb 2013 20:15:10 -0600</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+development:
+  adapter: sqlite3
+  database: C:\Users\milan\Documents\GitHub\bluereader\db\storage\development.db
+  encoding: utf8
+
+production:
+  adapter: sqlite3
+  database: C:\Users\milan\Documents\GitHub\bluereader\db\storage\aquareader.db
+  encoding: utf8
+
+test: &test
+  adapter: sqlite3
+  database: C:\Users\milan\Documents\GitHub\bluereader\db\storage\test.db
+  encoding: utf8
